@@ -1,0 +1,9 @@
+{
+"host":"10.10.1.200",
+"port":"5672",
+"user":"mqadmin",
+"password":"mqadmin",
+"queues":[{"name":"buh","durable":"True","limit":"30"},
+            {"name":"nap","durable": "True","limit": "30"},
+            {"name":"hello","durable": "False","limit": "30"}]
+}

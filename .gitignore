@@ -1,0 +1,7 @@
+__pycache__/
+bt.py
+*.pyproj
+*.sln
+*.suo
+send.py
+.git/
